@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/BarnyardBonk.unity
+- path: Assets/Bonk New.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
