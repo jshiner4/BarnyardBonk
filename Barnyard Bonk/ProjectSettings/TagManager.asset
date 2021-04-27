@@ -18,11 +18,11 @@ TagManager:
   - 
   - FirstPersonWeapon
   - Ground
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Fence
+  - Player
+  - Animal
+  - Pen
+  - PenFloor
   - 
   - 
   - 

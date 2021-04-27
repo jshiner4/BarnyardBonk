@@ -31,6 +31,11 @@ public class NewCameraMove : MonoBehaviour
     private Vector2 lastInputEvent; // The last received non-zero input value
     private float inputLagTimer; // The time since the last received non-zero input value
 
+    private void Start()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+    }
+
     // When this component is enabled, we need to reset the state
     // and figure out the current rotation
     private void OnEnable()
